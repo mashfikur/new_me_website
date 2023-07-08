@@ -112,6 +112,9 @@ header {
 
 /* Plan section styles */
 
+.plan{
+  margin: 0 280px;
+}
 .section-title {
   color: #151414;
   font-size: 40px;
