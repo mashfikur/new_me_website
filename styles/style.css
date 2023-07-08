@@ -174,3 +174,73 @@ header {
   font-weight: 600;
   border: 0;
 }
+
+/* footer section styles */
+
+footer {
+  background: #151414;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 130px 230px;
+}
+
+.footer-left h3 {
+  color: #f8f8f8;
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.footer-left p {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 30px;
+  max-width: 480px;
+}
+
+.footer-left span {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.social-icons {
+  margin-top: 15px;
+}
+
+.footer-right h4 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.footer-right input[type="email"] {
+  width: 350px;
+  height: 64px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 20px;
+  display: block;
+  margin-bottom: 15px;
+  background: transparent;
+  border-radius: 8px;
+  border: 1px solid #fff;
+}
+
+.footer-right input[type="submit"] {
+  border-radius: 8px;
+  background: #fff;
+  color: #f15b22;
+  font-size: 20px;
+  font-weight: 600;
+  width: 170.106px;
+  height: 64px;
+  text-align: center;
+}
