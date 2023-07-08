@@ -109,3 +109,40 @@ header {
   content: "\2713";
   margin-right: 4px;
 }
+
+/* Plan section styles */
+
+.section-title {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.card {
+  text-align: center;
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 130px;
+}
+
+.card-title {
+  color: #151414;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.card-text {
+  color: #737272;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+}
